@@ -1,0 +1,24 @@
+
+.title{
+  color: blue;
+  background-color: rgb(203, 203, 203);
+  padding: 10px;
+}
+.menu{
+  background-color: gray;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  border-radius: 10px;
+}
+
+.teste{
+  color: red;
+  background-color: rgb(203, 203, 203);
+  padding: 10px;
+}

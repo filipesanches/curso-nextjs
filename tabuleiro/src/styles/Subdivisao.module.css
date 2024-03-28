@@ -1,0 +1,14 @@
+.board{
+  display: flex;
+}
+
+.subdivisao{
+  width: 100px;
+  height: 100px;
+}
+.black{
+  background-color: black;
+}
+.white{
+  background-color: white;
+}
