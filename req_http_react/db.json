@@ -1,0 +1,42 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "João",
+      "idade": 25,
+      "cidade": "São Paulo"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "idade": 30,
+      "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": 3,
+      "nome": "Pedro",
+      "idade": 22,
+      "cidade": "Belo Horizonte"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 101,
+      "nome": "Camiseta",
+      "preco": 25.99,
+      "categoria": "Vestuário"
+    },
+    {
+      "id": 102,
+      "nome": "Sapato",
+      "preco": 59.99,
+      "categoria": "Calçados"
+    },
+    {
+      "id": 103,
+      "nome": "Mochila",
+      "preco": 39.99,
+      "categoria": "Acessórios"
+    }
+  ]
+}
